@@ -220,6 +220,7 @@ input::placeholder {
         padding: 3.2rem;
         border-radius: 30px;
         max-width: 28rem;
+        min-height: 50vh;
     }
 
     .success-message h2 {
